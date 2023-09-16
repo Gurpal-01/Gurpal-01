@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Gurpal Singh
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python and Sql
-- 💞️ I’m looking to collaborate on Data Analysis Projects
+-  Hi, I’m Gurpal Singh
+-  I’m interested in Data Science
+-  I’m currently learning Python and Sql
+-  I’m looking to collaborate on Data Analysis Projects
 .
 
 <!---
